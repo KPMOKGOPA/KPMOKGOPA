@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kabelo Phuti Mokgopa, MSc</h1>
+<h1 align="center">Kabelo Phuti Mokgopa, MSc</h1>
 <h3 align="center">PhD Candidate | AI & Quantum Computing in Chemistry | Software & Machine Learning Engineer | Research Mentor</h3>
 
 <p align="center">
