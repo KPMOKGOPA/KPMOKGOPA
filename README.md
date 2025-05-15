@@ -75,4 +75,4 @@
 
 ---
 
-*Let’s build the future of science with code, data, and molecules!*
+
